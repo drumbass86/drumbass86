@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi All 👋
+About my experience:
+ - 13 years worked as a C++ developer in R&D department - rtos, qt5,zeromq, pybind, python, sql; 
+ - last year have been working as a beginner Golang developer - microservices, rpc, rest, rabbitmq, sql
 
+I`m currently learning Golang frameworks and best practices for creating services.
 <!--
 **drumbass86/drumbass86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
