@@ -1,7 +1,7 @@
 ### Hi All 👋
 About my experience:
  - 13 years worked as a C++ developer in R&D department - rtos, qt5,zeromq, pybind, python, sql; 
- - last year have been working as a beginner Golang developer - microservices, rpc, rest, rabbitmq, sql
+ - last 2 years have been working as a beginner Golang developer - microservices, rpc, rest, rabbitmq, sql
 
 I`m currently learning Golang frameworks and best practices for creating services.
 <!--
